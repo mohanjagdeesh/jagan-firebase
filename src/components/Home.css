@@ -1,0 +1,23 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button-el {
+  background-color: #302d29;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.main-head {
+  color: orangered;
+}
